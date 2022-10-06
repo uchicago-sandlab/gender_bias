@@ -1,1 +1,1 @@
-# This is the lexicon with gender words and scores, and crowd-sourced paragraphs with male/female consistent/contradictory labels for the paper: [Detecting gender stereotypes: lexicon vs. supervised learning methods.](https://dl.acm.org/doi/pdf/10.1145/3313831.3376488)
+This is the lexicon with gender words and scores, and crowd-sourced paragraphs with male/female consistent/contradictory labels for the paper: [Detecting gender stereotypes: lexicon vs. supervised learning methods.](https://dl.acm.org/doi/pdf/10.1145/3313831.3376488)
